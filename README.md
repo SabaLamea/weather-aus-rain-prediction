@@ -36,4 +36,3 @@ This project focuses on predicting whether it will rain tomorrow in Australia ba
 - Matplotlib, Seaborn
 - XGBoost
 
-## 📁 Folder Structure (Suggested)
